@@ -1,0 +1,5 @@
+﻿  53.cpp
+d:\universidad\workspace-c\eda-53\eda-53\53.cpp(145): warning C4715: 'elementoMinimo<int>': no todas las rutas de acceso de control devuelven un valor
+d:\universidad\workspace-c\eda-53\eda-53\53.cpp(145): warning C4715: 'elementoMinimo<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >': no todas las rutas de acceso de control devuelven un valor
+  eda-53.vcxproj -> D:\Universidad\Workspace-C\eda-53\Debug\eda-53.exe
+  eda-53.vcxproj -> D:\Universidad\Workspace-C\eda-53\Debug\eda-53.pdb (Partial PDB)
