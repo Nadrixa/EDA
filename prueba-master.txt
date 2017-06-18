@@ -1,6 +1,7 @@
 
+
 prueba de ramas, Nadrixa
 
-prueba de ramas, desde Master
+prueba de branches, desde Master
 
 pues chico, esto ya lo entiendo
